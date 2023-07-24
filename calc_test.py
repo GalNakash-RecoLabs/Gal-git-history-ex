@@ -20,5 +20,6 @@ class TestCalc(unittest.TestCase):
     def test_pow(self):
         self.assertEqual(16, 4 ** 2)
 
+
 if __name__ == '__main__':
     unittest.main()

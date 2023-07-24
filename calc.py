@@ -1,9 +1,13 @@
 import sys
+
+
 def add(a, b):
     return a + b
 
+
 def sub(a, b):
     return a - b
+
 
 def mul(a, b):
     return a * b
@@ -12,6 +16,7 @@ def mul(a, b):
 def div(a, b):
     return a / b
 
+
 def mod(a, b):
     return a % b
 
@@ -19,19 +24,21 @@ def mod(a, b):
 def pow(a, b):
     return a ** b
 
+
 def floordiv(a, b):
     return a // b
 
 
 functions = {
-"add": add,
-"sub": sub,
-"mul": mul,
-"div": div,
-"mod": mod,
-"pow": pow,
-"floordiv": floordiv
+    "add": add,
+    "sub": sub,
+    "mul": mul,
+    "div": div,
+    "mod": mod,
+    "pow": pow,
+    "floordiv": floordiv
 }
+
 
 def main():
     if len(sys.argv) != 4:
