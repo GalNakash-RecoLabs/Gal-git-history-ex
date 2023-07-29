@@ -23,7 +23,6 @@ The program supports the following operations:
 - floordiv
 
 
-
 ## Example
 ```
 python3 calc.py add 2 4
