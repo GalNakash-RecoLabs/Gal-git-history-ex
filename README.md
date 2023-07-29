@@ -18,6 +18,7 @@ The program supports the following operations:
 - subtract
 - multiply
 - divide
+- modulo
 
 
 
