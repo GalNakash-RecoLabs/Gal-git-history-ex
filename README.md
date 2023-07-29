@@ -20,6 +20,7 @@ The program supports the following operations:
 - divide
 - modulo
 - pow
+- floordiv
 
 
 

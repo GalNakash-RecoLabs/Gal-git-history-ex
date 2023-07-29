@@ -25,6 +25,10 @@ def pow(a, b):
     return a ** b
 
 
+def floordiv(a, b):
+    return a // b
+
+
 functions = {
     "add": add,
     "sub": sub,
@@ -32,6 +36,7 @@ functions = {
     "div": div,
     "mod": mod,
     "pow": pow,
+    "floordiv": floordiv
 }
 
 
