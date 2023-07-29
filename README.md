@@ -17,6 +17,7 @@ The program supports the following operations:
 - add
 - subtract
 - multiply
+- divide
 
 
 
