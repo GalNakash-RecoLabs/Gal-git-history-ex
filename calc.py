@@ -21,12 +21,17 @@ def mod(a, b):
     return a % b
 
 
+def pow(a, b):
+    return a ** b
+
+
 functions = {
     "add": add,
     "sub": sub,
     "mul": mul,
     "div": div,
     "mod": mod,
+    "pow": pow,
 }
 
 

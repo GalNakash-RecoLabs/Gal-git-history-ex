@@ -19,6 +19,7 @@ The program supports the following operations:
 - multiply
 - divide
 - modulo
+- pow
 
 
 
