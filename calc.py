@@ -9,9 +9,14 @@ def sub(a, b):
     return a - b
 
 
+def mul(a, b):
+    return a * b
+
+
 functions = {
     "add": add,
     "sub": sub,
+    "mul": mul,
 }
 
 

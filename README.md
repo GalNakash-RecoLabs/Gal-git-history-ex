@@ -16,6 +16,7 @@ python3 calc.py <operation> <number1> <number2>
 The program supports the following operations:
 - add
 - subtract
+- multiply
 
 
 
