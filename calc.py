@@ -1,6 +1,14 @@
 import sys
 
-functions = {}
+
+def add(a, b):
+    return a + b
+
+
+functions = {
+    "add": add,
+}
+
 
 def main():
     if len(sys.argv) != 4:

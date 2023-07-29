@@ -2,7 +2,8 @@ import unittest
 
 
 class TestCalc(unittest.TestCase):
-    pass 
+    def test_add(self):
+        self.assertEqual(4, 2 + 2)
 
 
 if __name__ == '__main__':

@@ -13,10 +13,16 @@ python3 calc.py <operation> <number1> <number2>
 
 
 ## Supported Operations
-At the moment no operations are supported.
+The program supports the following operations:
+- add
+
+
 
 ## Example
-TBD
+```
+python3 calc.py add 2 4
+6
+```
 
 ## Author
 - [**Gal Nakash**]()
